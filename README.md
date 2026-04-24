@@ -88,7 +88,3 @@ Basado en mis proyectos recientes y mi enfoque de aprendizaje:
 <a href="mailto:gabi02.nunez@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /></a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=330066&height=100&section=footer&text=Iterando%20hacia%20el%20futuro%20🚀&fontSize=30" />
-</p>
