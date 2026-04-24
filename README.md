@@ -164,13 +164,3 @@ Basado en mis proyectos recientes y mi enfoque de aprendizaje:
 | Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
----
-## 📫 Conecta conmigo
-
-<p align="left">
-  <a href="mailto:gabi02.nunez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-  </a>
-</p>
-
